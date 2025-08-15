@@ -1,0 +1,15 @@
+# Exclude specific files/dirs
+apim-connect-test.ipynb
+huggingfacetest.ipynb
+fastmcp_server.py
+=0.28.1/
+
+# (optional) ignore ALL notebooks & common local stuff
+# *.ipynb
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+.DS_Store
+.vscode/
