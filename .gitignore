@@ -13,3 +13,8 @@ __pycache__/
 .env.*
 .DS_Store
 .vscode/
+apim-connect-test.ipynb
+huggingfacetest.ipynb
+*.ipynb
+.env
+*.env
